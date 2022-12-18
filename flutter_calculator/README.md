@@ -1,4 +1,4 @@
-# flutter_hesap_makinesi
+# Flutter Calculator
 
 A new Flutter project.
 
